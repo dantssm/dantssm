@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+IT & BA student at UCU.
 <!--
 **dantssm/dantssm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
